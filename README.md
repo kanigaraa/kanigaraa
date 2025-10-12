@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git-quote.jpg" width="100%" style="border-radius:10px;">
+  <img src="header_image.png" width="100%" style="border-radius:10px;">
 </p>
 <h2 align="center">
 Hi, I'm Khaliz Kanigara
