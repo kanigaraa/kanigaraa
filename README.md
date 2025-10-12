@@ -9,13 +9,13 @@ I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems<
 <p align="center"><b>Frontend</b> and <b>UI/UX Design</b> Enthusiast.</p>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
-  <a href="https://www.instagram.com/kanigaraa" target="_blank">
+  <a href="https://www.instagram.com/kanigaraafg" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/khalizkanigara" target="_blank">
+  <a href="https://www.linkedin.com/in/khaliz-kanigara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:khalizkanigara@gmail.com" target="_blank">
+  <a href="mailto:khalizkanigarafg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
