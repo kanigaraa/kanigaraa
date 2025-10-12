@@ -35,4 +35,5 @@ I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems<
 <h3>Database</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="50" alt="XAMPP"/>
 </p>
