@@ -1,26 +1,30 @@
 name: Generate Pacman Contribution Graph
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # dijalankan setiap hari jam 00:00 UTC
+  workflow_dispatch:     # bisa dijalankan manual dari tab Actions
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
-        uses: yoshi389111/github-profile-3d-contrib@master
-        with:
-          username: kanigaraa
-          output_dir: output
-          theme: pacman
+      - name: Generate Pacman Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: kanigaraa
+          THEME: pacman
+          OUTPUT_PATH: output
 
-      - name: Push SVG to Repo
+      - name: Commit & Push generated files
         run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add output/
           git commit -m "update pacman graph" || echo "No changes"
           git push
