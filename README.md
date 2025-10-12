@@ -1,9 +1,9 @@
-<p align="center", font-weight="bold">
-Hi, I'm Khaliz Kanigara
+<p align="center">
+<b>Hi, I'm Khaliz Kanigara</b>
 </p>
-<p align="center", font-weight="bold">
-I'm a student at **UPN Veteran Jakarta**, majoring in **Information Systems**.  
-Passionate about **Web Development** and **UI/UX**.
+<p align="center">
+I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems</b>.  
+Passionate about <b>Web Development</b> and <b>UI/UX</b>.
 </p>
 
 ## Skills
