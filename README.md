@@ -1,7 +1,7 @@
-<p align="center">
-# Hi, I'm Khaliz Kanigara
+<p align="center", font-weight="bold">
+Hi, I'm Khaliz Kanigara
 </p>
-<p align="center">
+<p align="center", font-weight="bold">
 I'm a student at **UPN Veteran Jakarta**, majoring in **Information Systems**.  
 Passionate about **Web Development** and **UI/UX**.
 </p>
