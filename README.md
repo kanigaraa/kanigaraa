@@ -23,7 +23,7 @@ I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems<
 <h3>Design</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="50" alt="Miro"/>
+  <img src="https://yt3.googleusercontent.com/lxYO3EWE0XCiPcwcrLp8iLIpeZ9siH-iYpAzIYR5zRJRv4QIPly_yH9xqIJlTQ4VI9uYhBuWig=s900-c-k-c0x00ffffff-no-rj" width="50" alt="Miro"/>
   <img src="https://cdn.brandfetch.io/iddFGFHNcm/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="50" alt="Maze"/>
 </p>
 <h3>Frontend</h3>
