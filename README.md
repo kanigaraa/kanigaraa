@@ -7,13 +7,13 @@ I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems<
 <h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://www.instagram.com/kanigaraafg" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/khaliz-kanigara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:khalizkanigarafg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 <h2 align="center">Skills & Tools</h2>
