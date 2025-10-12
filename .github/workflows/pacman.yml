@@ -2,27 +2,29 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # dijalankan setiap hari jam 00:00 UTC
-  workflow_dispatch:     # bisa dijalankan manual dari tab Actions
+    - cron: "0 0 * * *" # jalan setiap tengah malam UTC
+  workflow_dispatch:     # bisa manual dari Actions
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: kanigaraa
-          THEME: pacman
-          OUTPUT_PATH: output
+      - name: Generate contribution grid snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: kanigaraa
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Commit & Push generated files
+      - name: Push generated files
         run: |
+          mkdir -p output
+          cp dist/* output/
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add output/
