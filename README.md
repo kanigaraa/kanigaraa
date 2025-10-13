@@ -8,11 +8,8 @@
 
 ###
 
-<p align="center">I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems</b>.</p>
-
-###
-
-<p align="center"><b>Frontend</b> and <b>UI/UX Design</b> Enthusiast.</p>
+<p align="center">I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems</b>.<br>
+  <b>Frontend</b> and <b>UI/UX Design</b> Enthusiast.</p>
 
 ###
 
@@ -30,12 +27,6 @@
   <a href="khalizkanigarafg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kanigaraa.kanigaraa&"  />
 </div>
 
 ###
