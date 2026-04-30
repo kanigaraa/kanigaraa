@@ -9,7 +9,7 @@
 ###
 
 <p align="center">I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems</b>.<br>
-  Interested in <b>Web Development<b> and <b>UI/UX Design<b></p>
+  Interested in <b>Web Development</b> and <b>UI/UX Design</b></p>
 
 ###
 
@@ -85,3 +85,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kanigaraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kanigaraa&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="GitHub streak"
+  />
+</div>
+
+###
