@@ -9,7 +9,7 @@
 ###
 
 <p align="center">I'm a student at <b>UPN Veteran Jakarta</b>, majoring in <b>Information Systems</b>.<br>
-  <b>Frontend</b> and <b>UI/UX Design</b> Enthusiast.</p>
+  Interested in <b>Web Development<b> and <b>UI/UX Design<b></p>
 
 ###
 
