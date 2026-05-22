@@ -39,7 +39,6 @@
 <div align="center">
   <h3>Frontend & Backend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,php,mysql" height="42" alt="Frontend and Backend Tech Stack" />
-  <img width="12" />
   <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="42" alt="TanStack" />
 </div>
 
