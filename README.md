@@ -37,15 +37,15 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vite" height="42" alt="Frontend Tech Stack" />
+  <h3>Frontend & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,php,mysql" height="42" alt="Frontend and Backend Tech Stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Backend & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=php,bun,npm,mysql,postgresql,cloudflare,vercel" height="42" alt="Backend and Tools Tech Stack" />
+  <h3>Design & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=figma,git,bun,npm,vercel,cloudflare" height="42" alt="Design and Tools" />
 </div>
 
 <br />
