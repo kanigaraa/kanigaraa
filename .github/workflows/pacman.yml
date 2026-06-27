@@ -1,12 +1,7 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
