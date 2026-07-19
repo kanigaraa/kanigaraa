@@ -8,7 +8,6 @@
   <h1>Hi, I'm Khaliz Kanigara</h1>
 
   <p>
-    Information Systems student at <b>UPN Veteran Jakarta</b><br />
     Interested in <b>Web Development</b> and <b>UI/UX Design</b>
   </p>
 
