@@ -56,12 +56,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kanigaraa&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Khaliz Kanigara's GitHub streak"
-  />
-</div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanigaraa&hide_border=true&theme=github-dark-blue&background=00000000" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanigaraa&hide_border=true&theme=default&background=00000000" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kanigaraa&hide_border=true&background=00000000" alt="Khaliz Kanigara's GitHub streak" /> </picture>
 
 <br />
 <br />
