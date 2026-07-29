@@ -14,6 +14,10 @@
   <p>
     I enjoy building clean, user-friendly digital experiences through design and code.
   </p>
+
+  <p>
+    🌱 Currently learning <b>Backend Development</b>.
+  </p>
 </div>
 
 <br />
